@@ -20,8 +20,6 @@ export const TrafficLight = () => {
 		return setAddPurple(false)
 	}
 
-
-
 	return (
 		<>
 			<h1 className="title d-flex justify-content-center pt-1">Traffic Light</h1>
